@@ -1,0 +1,4 @@
+descripcion, monto, tipo
+una compra , 100,egreso
+pago , 400, ingreso
+c
